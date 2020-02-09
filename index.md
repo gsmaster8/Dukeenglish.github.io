@@ -13,7 +13,7 @@ My research interests focus on: the access control strategy for cloud computing,
 Also things about **fps game** are also interesting to me. :). 
 
 ## Vision
-Enable Humanity
+Happy, Healthy.
 
 ## Mission
-The only thing that I want to do is to help **me** and **people around me** become better
+The only thing that I want to do is to make those who love me and those I love happier.
