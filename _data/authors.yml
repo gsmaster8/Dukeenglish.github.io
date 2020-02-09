@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
 author1:
-  name:              李俊毅
-  email:             4ljy@163.com
+  name:              邓世杰
+  email:             dengshijie@hnu.edu.cn
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Engineer/Researcher of NLP/DL
+    Master student/A rookie programmer
 
   # This photo will be used in the about section.
   picture:
@@ -17,9 +17,9 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:             4ljy@163.com
-    github:            dukeenglish
-    zhihu:             https://www.zhihu.com/people/ljyduke/activities
+    email:             dengshijie@hnu.edu.cn
+    github:            gsmaster8
+   # zhihu:             https://www.zhihu.com/people/ljyduke/activities
   
     # linkedin:        <firstname-lastname-string>
 
