@@ -3,36 +3,24 @@ before-pubs:
     heading: Appointments
     items:
       -
-        title: NLP Algorithm Engineer
-        year: 2018.1 &ndash; present
-        detail: Meituan-Dianping
-      -
-        title: AI Internship
-        year: 2017.10 &ndash; 2017.12
-        detail: Laiye
-      -
-        title: Technical analyst (Part-time)
-        year:  2017.1 &ndash; 2017.9
-        detail: 机器之心海外部-Synced (England)
+        title: Development Engineer
+        year: Coming soon..
+        detail: 
   -
     heading: Education
     items:
       -
         title: M.S
-        year: 2016 – 2017
-        detail: University of Edinburgh, School of Informatics.
+        year: 2018 – 2020
+        detail: Hunan University, College of Computer Science and Electronic Enineering
       -
         title: B.S
-        year: 2012 - 2016
-        detail: Hunan University, College of Computer Science and Electronic Enineering
+        year: 2014 - 2018
+        detail: Nanchang University, College of Information Engineering
   -
     heading: Personal Material
     items:
       -
         title: 个人简历
-        year: 2018.12
-        detail: <a href="https://github.com/DukeEnglish/DukeEnglish.github.io/tree/master/Resume">个人简历</a>
-      -
-        title: 毕业设计
-        year: 2017.8
-        detail: <a href="https://github.com/DukeEnglish/DukeEnglish.github.io/blob/master/Resume/language-model-gpu.pdf">Language model on GPU</a>
+        year: 2020.12
+        detail: <a href="">待完善..</a>
