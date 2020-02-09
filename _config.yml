@@ -34,12 +34,12 @@ tagline:               >
 keywords:              [DXX, DSJ, 邓世杰]
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/juzizhou.png
+logo:                  /assets/img/juzizhou_small.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                邓世杰
-  picture:             /assets/img/juzizhou.png
+  picture:             /assets/img/juzizhou_small.jpg
   social:
     email:               'dengshijie@hnu.edu.cn'
     github:              gsmaster8
