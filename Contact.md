@@ -3,7 +3,7 @@ layout: page
 title:  Contact
 cover:  false
 menu:   true
-order:  5
+order:  4
 ---
 > _Where there is a will, there is a way._
 >
