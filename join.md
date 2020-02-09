@@ -1,14 +1,11 @@
 ---
 layout: page
-title:  Prospective group members
+title:  Blog
 cover:  false
 menu:   true
 order:  4
 ---
 
-I studied Information security in HUNAN Univerisity and Artificial Intelligence in the University of Edinburgh.
-I am really interested in every aspect related with the applications of Artificial Intelligence.
+I would like to write some blogs to record my study and my life.
 
-## Academic seminar
-
-I currently hold a little private academic seminar with a few friends. If you are interested in this kind of activity, please get in touch, we could hold another one around WANGJING.
+To Be Continue..
