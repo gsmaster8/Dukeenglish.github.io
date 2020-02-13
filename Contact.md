@@ -9,5 +9,5 @@ order:  4
 >
 
 
-### I would love to make friends with you, feel free to contact me via email: dengshijie@hnu.edu.cn / shijie_deng@163.com
+ I would love to make friends with you, feel free to contact me via email: dengshijie@hnu.edu.cn / shijie_deng@163.com
 ### Let us make progress together! :D
